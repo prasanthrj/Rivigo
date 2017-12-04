@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="28179" started-at="2017-12-04T21:48:00Z" finished-at="2017-12-04T21:48:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="28179" started-at="2017-12-04T21:48:00Z" finished-at="2017-12-04T21:48:28Z">
+      <class name="org.riv.qa.test.wrap.WrapTest">
+        <test-method status="PASS" signature="testWrapTestMinTextLength()[pri:0, instance:org.riv.qa.test.wrap.WrapTest@dfd3711]" name="testWrapTestMinTextLength" duration-ms="1" started-at="2017-12-05T03:18:26Z" finished-at="2017-12-05T03:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrapTestMinTextLength -->
+        <test-method status="PASS" signature="testWrapTestSpacesLeading()[pri:0, instance:org.riv.qa.test.wrap.WrapTest@dfd3711]" name="testWrapTestSpacesLeading" duration-ms="1" started-at="2017-12-05T03:18:26Z" finished-at="2017-12-05T03:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrapTestSpacesLeading -->
+      </class> <!-- org.riv.qa.test.wrap.WrapTest -->
+      <class name="org.riv.qa.webdriver.test.FunctionalTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.riv.qa.webdriver.test.FunctionalTest@1e67b872]" name="setup" is-config="true" duration-ms="4346" started-at="2017-12-05T03:18:00Z" finished-at="2017-12-05T03:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.riv.qa.webdriver.test.FunctionalTest@1e67b872]" name="test1" duration-ms="21861" started-at="2017-12-05T03:18:04Z" finished-at="2017-12-05T03:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.riv.qa.webdriver.test.FunctionalTest@1e67b872]" name="tearDown" is-config="true" duration-ms="1959" started-at="2017-12-05T03:18:26Z" finished-at="2017-12-05T03:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.riv.qa.webdriver.test.FunctionalTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

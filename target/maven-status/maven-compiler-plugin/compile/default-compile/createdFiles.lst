@@ -1,0 +1,5 @@
+org\riv\qa\base\CommonUtil.class
+org\riv\qa\pages\CheckOutPage.class
+org\riv\qa\pages\HomePage.class
+org\riv\qa\base\WebDriverBase.class
+org\riv\qa\pages\SearchResultPage.class
