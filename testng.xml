@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RivigoTestPlan" parallel="false">
+  <test name="functionalTest">
+    <classes>
+      <class name="org.riv.qa.webdriver.test.FunctionalTest"/>
+    </classes>
+  </test>
+</suite>
